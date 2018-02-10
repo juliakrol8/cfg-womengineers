@@ -1,0 +1,42 @@
+
+ul.nav {
+  background-color: rgba(0,0,0,0.7);
+  height: 50px;
+  margin: 0 0 0 0;
+}
+ul.nav li {
+  display: inline-block;
+  padding: 25px 25px 0px 20px;
+  color: white;
+  float: right;
+}
+ul.nav a {
+  text-decoration: none;
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-size: 250px;
+  font-family: 'Wire One', sans-serif;
+  margin: 100px 0 0 0;
+  color: #ffaaf5;
+}
+.title {
+  color: white;
+}
+.header h2 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 0px;
+  color:#dadfe8;
+  font-family: 'Quicksand', sans-serif;
+}
+div {
+  margin: 0px 0 70 0px;
+  padding: 0 0 70px 0;
+}
+
+body {
+  background-image: url(https://cdn.shopify.com/s/files/1/0895/0864/products/42-20040849_1024x1024.jpeg?v=1451692458);
+  background-size: cover;
+}
